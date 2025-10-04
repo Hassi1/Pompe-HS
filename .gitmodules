@@ -2,6 +2,3 @@
 	path = libhotstuff
 	url = https://github.com/Hassi1/libhotstuff.git
 	branch = syncol
-[submodule "bls"]
-	path = bls
-	url = https://github.com/Hassi1/bls.git
