@@ -1,4 +1,4 @@
 [submodule "libhotstuff"]
 	path = libhotstuff
-	url = git@github.com:Pompe-org/libhotstuff.git
-	branch = pompe
+	url = https://github.com/Hassi1/libhotstuff.git
+	branch = syncol
